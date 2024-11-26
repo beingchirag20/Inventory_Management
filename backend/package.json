@@ -1,0 +1,27 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "Backend Folder for inventory management system project",
+  "main": "index.js",
+  "scripts": {
+    "start":"node server.js"
+  },
+  "keywords": [
+    "Inventory",
+    "Management",
+    "node",
+    "express",
+    "react",
+    "mongoDb",
+    "mern",
+    "projects"
+  ],
+  "author": "Chirag Vaibhav Rane",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.1",
+    "mongoose": "^8.8.2"
+  }
+}
